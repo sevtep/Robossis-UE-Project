@@ -1,6 +1,6 @@
 # Robossis Unreal Engine Project
 
-![Robossis Robot](Robotsc.png)
+<img src="Robotsc.png" width="400" alt="Robossis Robot"/>
 
 This is the Robossis Unreal Engine project.
 
