@@ -1,0 +1,20 @@
+# Unreal Engine generated directories
+ArmSim/DerivedDataCache/
+ArmSim/Intermediate/
+ArmSim/Saved/
+ArmSim/Binaries/
+
+# OS-generated
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Rider
+.idea/
+
+# Log files
+*.log
