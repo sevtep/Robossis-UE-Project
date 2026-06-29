@@ -1,5 +1,7 @@
 # Robossis Unreal Engine Project
 
+![Robossis Robot](Robotsc.png)
+
 This is the Robossis Unreal Engine project.
 
 The UE project is located in `ArmSim/`.
